@@ -1,0 +1,10 @@
+[
+	{
+		"caption" : "Pipe Selection with Ruby",
+		"command" : "ruby_exec_selection"
+	},
+  {
+	  "caption" : "Pipe Selection with Ruby (Replace)",
+		"command" : "ruby_exec_selection_replace"
+  }
+]
